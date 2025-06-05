@@ -1,0 +1,31 @@
+{
+  "folders": [
+    {
+      "path": "file:///home/test-local/Downloads/gherkin-bdd-api-test-framework-master"
+    },
+    {
+      "path": "file:///home/test-local/Downloads/PythonRestApiTesting-master"
+    },
+    {
+      "path": "file:///home/test-local/Downloads/api_test_demo-master"
+    },
+    {
+      "path": "file:///home/test-local/Downloads/Playwright-Python-Example-main"
+    },
+    {
+      "path": "file:///home/test-local/Downloads/Pytest-API-Test-Starter-main"
+    }
+  ],
+  "settings": {
+    "ai-features.mcp.mcpServers": {
+      "playwright": {
+        "command": "npx",
+        "args": [
+          "@playwright/mcp@latest"
+        ]
+      }
+    },
+    "ai-features.AiEnable.enableAI": true,
+    "ai-features.modelSettings.requestSettings": []
+  }
+}
